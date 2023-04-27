@@ -5,7 +5,7 @@ What's up friends! This repository is basically a record of my progress in the 1
 
 | Day #         | Project Name         | Description   | Repo          |
 | ------------- | -------------        | ------------- | ------------- |
-| 1             | Band Name Generator  | Basic little project to refresh how to use user inputs.  | [Link](https://github.com/emmoscript/Python-100-days-of-code/blob/61f8e6947373690198a44deb77e1fbcb637e6a58/Beginner/Day%201/main.py)  |
+| 1             | Band Name Generator🥁 | Basic little project to refresh how to use user inputs.  | [Link](https://github.com/emmoscript/Python-100-days-of-code/blob/61f8e6947373690198a44deb77e1fbcb637e6a58/Beginner/Day%201/main.py)  |
 | 2             | Blank         | Blank  | Link  |
 | 3             | Blank         | Blank  | Link  |
 | 4             | Blank         | Blank  | Link  |

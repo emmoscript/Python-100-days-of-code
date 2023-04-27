@@ -19,5 +19,3 @@ What's up friends! This repository is basically a record of my progress in the 1
 | 12            | Blank         | Blank  | Blank  |
 | 13            | Blank         | Blank  | Blank  |
 | 14            | Blank         | Blank  | Blank  |
-
-The background color is `#4172da` for light mode and `#3a4c76` for dark mode.

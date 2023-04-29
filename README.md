@@ -43,7 +43,7 @@ What's up friends! This repository is basically a record of my progress in the 1
 | 30            | Blank                | Blank         | Link          |
 | 31            | Blank                | Blank         | Link          |
 
-## **Upper Intermediate Projects 2️⃣**
+## **Intermediate+ Projects 2️⃣**
 
 | Day #         | Project Name         | Description   | Repo          |
 | ------------- | -------------        | ------------- | ------------- |

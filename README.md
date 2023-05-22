@@ -9,7 +9,7 @@ This repository is basically a record of my progress in the 100 day python code 
 | Day #         | Project Name         | Description   | Repo          |
 | ------------- | -------------        | ------------- | ------------- |
 | 1             | Band Name Generator 🥁 | Basic little project to refresh how to use user inputs and variables.  | [Link](Beginner/Day 1/BandNameGen.py)  |
-| 2             | Tip Calculator 🧮         |  A slightly more challenging project than the last to remember Arithmetic Operators, Data Types and f-Strings. | [Link](https://github.com/emmoscript/Python-100-days-of-code/blob/6f2a0057a592ffcd7e284e8c614486b0f229111d/Beginner/Day%202/main.py)  |
+| 2             | Tip Calculator 🧮         |  A slightly more challenging project than the last to remember Arithmetic Operators, Data Types and f-Strings. | [Link](https://github.com/emmoscript/Python-100-days-of-code/blob/6f2a0057a592ffcd7e284e8c614486b0f229111d/Beginner/Day%202/main.py](https://github.com/emmoscript/Python-100-days-of-code/blob/e7246f328436e30c125663ab51589c8d60c2c504/Beginner/Day%201/BandNameGen.py)  |
 | 3             | Blank         | Blank  | Link  |
 | 4             | Blank         | Blank  | Link  |
 | 5             | Blank         | Blank  | Link  |

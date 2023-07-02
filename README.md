@@ -10,8 +10,8 @@ This repository is basically a record of my progress in the 100 day python code 
 | ------------- | -------------        | ------------- | ------------- |
 | 1             | Band Name Generator 🥁 | Basic little project to refresh how to use user inputs and variables.  | [Link](https://github.com/emmoscript/Python-100-days-of-code/blob/e7246f328436e30c125663ab51589c8d60c2c504/Beginner/Day%201/BandNameGen.py)  |
 | 2             | Tip Calculator 🧮         |  A slightly more challenging project than the last to remember Arithmetic Operators, Data Types and f-Strings. | [Link](https://github.com/emmoscript/Python-100-days-of-code/blob/a3cabea633577e829b4075fb7454ecb2a98a5799/Beginner/Day%202/TipCalculator.py)  |
-| 3             | Treasure Island ⛵         | A fun and simple game project to practice conditionals and logical operators.  | [Link](https://github.com/emmoscript/Python-100-days-of-code/blob/a3cabea633577e829b4075fb7454ecb2a98a5799/Beginner/Day%203/TheSerpentsEmbrace.py)  |
-| 4             | Rock, Paper, Scissors 🌑📃✂         | Blank  | Link  |
+| 3             | Treasure Island ⛵         | A fun, simple game project to practice conditionals and logical operators.  | [Link](https://github.com/emmoscript/Python-100-days-of-code/blob/a3cabea633577e829b4075fb7454ecb2a98a5799/Beginner/Day%203/TheSerpentsEmbrace.py)  |
+| 4             | Rock, Paper, Scissors 🌑📃✂         | A nice review for Python lists and how the random module works.   | [Link](https://github.com/emmoscript/Python-100-days-of-code/blob/c729ccc1234fb41d0047350884a516a0f2fa2def/Beginner/Day%204/RockPaperSccisors.py)  |
 | 5             | Blank         | Blank  | Link  |
 | 6             | Blank         | Blank  | Link  |
 | 7             | Blank         | Blank  | Link  |
